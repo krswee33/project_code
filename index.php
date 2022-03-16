@@ -87,7 +87,7 @@
   <div class="mx-auto lineup" style="width: 800px";>
     <H1 class="homepagefont">THE TOP 500 ALBUMS OF ALL TIME</H1>
     <h2>Selected by the music industry, rated by you.</h2>
-    <a href="Display.php" type="button" class="btn btn-primary btn-lg">show me the albums</a>
+    <a href="displayAll.php" type="button" class="btn btn-primary btn-lg">show me the albums</a>
   </div>
 
 
