@@ -1,0 +1,37 @@
+.background{
+
+    background-color:rgb(161, 162, 224);
+    
+}
+
+.backgroundrow{
+
+    background-color:darkseagreen;
+    padding-right: 0px, 0px, 5px, 0px;
+    border: black;
+    border-right: black;
+}
+
+.spacing{
+  border-spacing: 5px;
+}
+
+.lineup{
+
+    text-align: center;
+    /* align-content: center; */
+}
+
+
+.homepagefont{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.adminbackground {
+    background-color: burlywood;
+}
+
+.lineright {
+    text-align: right;
+}
